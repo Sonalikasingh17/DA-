@@ -86,3 +86,6 @@ Visualization: Generate scatter plots to visualize the transformed images.
 ## Acknowledgments
 - StarryData: For providing the tool to convert images into datasets.
 
+## Conclusion
+This project provided practical experience in data acquisition, matrix algebra, and data visualization, enhancing my understanding of these key concepts in data science.
+
